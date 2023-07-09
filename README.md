@@ -1,5 +1,9 @@
 # Tetris
-A Browser Game I made as a personal project and also uploaded its tutorial on my youTube channel.
+A Browser 2D Game built using JavaScript.
+
+Tetris is a classic puzzle video game that challenges players to manipulate falling blocks called Tetriminos to create complete horizontal lines. The goal is to clear as many lines as possible to earn points and prevent the stack of blocks from reaching the top of the playing field.
+
+Demo URL: https://m-adil-as.github.io/Tetris
 
 Demo Video:
 
